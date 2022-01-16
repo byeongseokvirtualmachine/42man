@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5542013f-f56a-4588-8974-262fe5883e37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex00/ft_putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex00/ft_putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex01/ft_print_alphabet.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex01/ft_print_alphabet.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex02/ft_print_reverse_alphabet.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex02/ft_print_reverse_alphabet.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex03/ft_print_numbers.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex03/ft_print_numbers.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex04/ft_is_negative.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex04/ft_is_negative.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex05/ft_print_comb.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex05/ft_print_comb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex06/ft_print_comb2.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex06/ft_print_comb2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex07/ft_putnbr.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex07/ft_putnbr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C00/ex08/ft_print_combn.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/ex08/ft_print_combn.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex00/ft_ft.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex00/ft_ft.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex01/ft_ultimate_ft.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex01/ft_ultimate_ft.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex02/ft_swap.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex02/ft_swap.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex03/ft_div_mod.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex03/ft_div_mod.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex04/ft_ultimate_div_mod.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex04/ft_ultimate_div_mod.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex05/ft_putstr.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex05/ft_putstr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex06/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex06/ft_strlen.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex06/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex06/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex07/ft_rev_int_tab.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex07/ft_rev_int_tab.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C01/ex08/ft_sort_int_tab.c" beforeDir="false" afterPath="$PROJECT_DIR$/C01/ex08/ft_sort_int_tab.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex00/ft_strcpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex00/ft_strcpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex00/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex00/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex01/ft_strncpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex01/ft_strncpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex01/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex01/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex02/ft_str_is_alpha.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex02/ft_str_is_alpha.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex02/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex02/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex03/ft_str_is_numeric.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex03/ft_str_is_numeric.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex03/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex03/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex04/ft_str_is_lowercase.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex04/ft_str_is_lowercase.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex04/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex04/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex05/ft_str_is_uppercase.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex05/ft_str_is_uppercase.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex05/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex05/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex06/ft_str_is_printable.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex06/ft_str_is_printable.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex06/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex06/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex07/ft_strupcase.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex07/ft_strupcase.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex07/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex07/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex08/ft_strlowcase.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex08/ft_strlowcase.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex08/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex08/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex09/ft_strcapitalize.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex09/ft_strcapitalize.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex09/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex09/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex10/ft_strlcpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex10/ft_strlcpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex11/ft_putstr_non_printable.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex11/ft_putstr_non_printable.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C02/ex12/ft_print_memory.c" beforeDir="false" afterPath="$PROJECT_DIR$/C02/ex12/ft_print_memory.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03/ex00/ft_strcmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/C03/ex00/ft_strcmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03/ex01/ft_strncmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/C03/ex01/ft_strncmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03/ex02/ft_strcat.c" beforeDir="false" afterPath="$PROJECT_DIR$/C03/ex02/ft_strcat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03/ex03/ft_strncat.c" beforeDir="false" afterPath="$PROJECT_DIR$/C03/ex03/ft_strncat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03/ex04/ft_strstr.c" beforeDir="false" afterPath="$PROJECT_DIR$/C03/ex04/ft_strstr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03/ex04/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/C03/ex04/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03/ex05/ft_strlcat.c" beforeDir="false" afterPath="$PROJECT_DIR$/C03/ex05/ft_strlcat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex00/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/C04/ex00/ft_strlen.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex01/ft_putstr.c" beforeDir="false" afterPath="$PROJECT_DIR$/C04/ex01/ft_putstr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex02/ft_putnbr.c" beforeDir="false" afterPath="$PROJECT_DIR$/C04/ex02/ft_putnbr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex03/ft_atoi.c" beforeDir="false" afterPath="$PROJECT_DIR$/C04/ex03/ft_atoi.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex03/ft_atoi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex04/ft_putnbr_base.c" beforeDir="false" afterPath="$PROJECT_DIR$/C04/ex04/ft_putnbr_base.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex04/ft_putnbr_base.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex04/original.c" beforeDir="false" afterPath="$PROJECT_DIR$/C04/ex04/original.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C04/ex05/ft_atoi_base.c" beforeDir="false" afterPath="$PROJECT_DIR$/C04/ex05/ft_atoi_base.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex00/ft_iterative_factorial.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex00/ft_iterative_factorial.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex01/ft_recursive_factorial.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex01/ft_recursive_factorial.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex02/ft_iterative_power.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex02/ft_iterative_power.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex03/ft_recursive_power.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex03/ft_recursive_power.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex04/ft_fibonacci.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex04/ft_fibonacci.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex05/ft_sqrt.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex05/ft_sqrt.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex06/ft_is_prime.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex06/ft_is_prime.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex07/ft_find_next_prime.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex07/ft_find_next_prime.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C05/ex08/ft_ten_queens_puzzle.c" beforeDir="false" afterPath="$PROJECT_DIR$/C05/ex08/ft_ten_queens_puzzle.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C06/ex00/ft_print_program_name.c" beforeDir="false" afterPath="$PROJECT_DIR$/C06/ex00/ft_print_program_name.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C06/ex01/ft_print_params.c" beforeDir="false" afterPath="$PROJECT_DIR$/C06/ex01/ft_print_params.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C06/ex01/ft_print_params.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C06/ex02/ft_rev_params.c" beforeDir="false" afterPath="$PROJECT_DIR$/C06/ex02/ft_rev_params.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C06/ex02/ft_rev_params.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C06/ex03/ft_sort_params.c" beforeDir="false" afterPath="$PROJECT_DIR$/C06/ex03/ft_sort_params.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C07/ex00/ft_strdup.c" beforeDir="false" afterPath="$PROJECT_DIR$/C07/ex00/ft_strdup.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C07/ex01/ft_range.c" beforeDir="false" afterPath="$PROJECT_DIR$/C07/ex01/ft_range.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C07/ex01/ft_range.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C07/ex02/ft_ultimate_range.c" beforeDir="false" afterPath="$PROJECT_DIR$/C07/ex02/ft_ultimate_range.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C07/ex03/ft_strjoin.c" beforeDir="false" afterPath="$PROJECT_DIR$/C07/ex03/ft_strjoin.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C08/ex00/ft.h" beforeDir="false" afterPath="$PROJECT_DIR$/C08/ex00/ft.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C08/ex01/ft_boolean.h" beforeDir="false" afterPath="$PROJECT_DIR$/C08/ex01/ft_boolean.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C08/ex02/ft_abs.h" beforeDir="false" afterPath="$PROJECT_DIR$/C08/ex02/ft_abs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C08/ex03/ft_point.h" beforeDir="false" afterPath="$PROJECT_DIR$/C08/ex03/ft_point.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C08/ex04/ft_strs_to_tab.c" beforeDir="false" afterPath="$PROJECT_DIR$/C08/ex04/ft_strs_to_tab.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C08/ex05/ft_show_tab.c" beforeDir="false" afterPath="$PROJECT_DIR$/C08/ex05/ft_show_tab.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex00/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex00/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex01/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex01/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex02/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex02/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex03/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex03/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex04/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex04/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex05/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex05/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex06/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex06/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex07/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex07/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/ex08/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/ex08/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c00/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c00/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c01/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c01/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c02/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c02/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c03/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c03/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c04/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c04/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c05/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c05/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c06/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c06/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c07/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c07/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c08/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c08/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c09/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c09/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c10/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c10/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c11/ex06/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c11/ex06/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c11/ex07/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c11/ex07/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c11/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c11/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/Test_case_42/c12/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/Test_case_42/c12/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex00/ft_putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex00/ft_putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex00/ft_putstr.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex00/ft_putstr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex00/ft_strcmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex00/ft_strcmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex00/ft_strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex00/ft_strlen.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex00/ft_swap.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex00/ft_swap.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex00/libft_creator.sh" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex00/libft_creator.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex01/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex01/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C09/ex02/ft_split.c" beforeDir="false" afterPath="$PROJECT_DIR$/C09/ex02/ft_split.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23mljxPxPQOABmkRFoWvtos7jMr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5542013f-f56a-4588-8974-262fe5883e37" name="Default Changelist" comment="" />
+      <created>1642347283522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642347283522</updated>
+      <workItem from="1642347286570" duration="1147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
