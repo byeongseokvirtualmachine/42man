@@ -1,8 +1,11 @@
-char	*ft_strncat(char *dest, char *src, unsigned int nb)
+/*
+strncat(dest, origin, size_t) : origin에 문자열 n개를 dest뒤 이어 붙임.
+*/
+char *ft_strncat(char *dest, char *src, unsigned int nb)
 {
-	int				digit;
-	unsigned int	i;
-	unsigned int	j;
+	int digit;
+	unsigned int i;
+	unsigned int j;
 
 	digit = 0;
 	while (dest[digit] != '\0')

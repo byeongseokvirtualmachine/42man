@@ -1,8 +1,12 @@
-char	*ft_strcat(char *dest, char *src)
+
+/*
+strcat(dest, origin) = dest뒤에 바로 src 붙는다
+*/
+char *ft_strcat(char *dest, char *src)
 {
-	int	digit;
-	int	i;
-	int	j;
+	int digit;
+	int i;
+	int j;
 
 	digit = 0;
 	while (dest[digit] != '\0')
